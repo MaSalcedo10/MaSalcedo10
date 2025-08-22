@@ -19,8 +19,6 @@ Actualmente estoy documentando mis proyectos, optimizando mi perfil profesional 
 - 🐍 Python | Django | FastAPI  
 - 🗄️ PostgreSQL | SQLite | Django ORM  
 - 📄 OpenAPI | Pytest | Git & GitHub  
-- 🖥️ Tkinter (apps de escritorio básicas)  
-- 🎨 Figma | Diseño gráfico | Pensamiento visual  
 - 🌐 Inglés B2 | Comunicación técnica | Trabajo remoto
 
 ---
@@ -29,9 +27,9 @@ Actualmente estoy documentando mis proyectos, optimizando mi perfil profesional 
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |---------|-------------|-------------|--------|
-| CRUD Django | App para crear, editar y eliminar usuarios | Django, SQLite | [Ver repositorio](https://github.com/tu-usuario/tu-repo) |
-| API FastAPI | API REST con documentación interactiva | FastAPI, PostgreSQL | [Ver repositorio](https://github.com/tu-usuario/tu-repo) |
-| Gestor de contraseñas | App de escritorio con cifrado básico | Python, Tkinter | [Ver repositorio](https://github.com/tu-usuario/tu-repo) |
+| CRUD Django | App para crear, editar y eliminar usuarios | Django, SQLite | [Ver repositorio](https://github.com/MaSalcedo10/Ejercicios-Practicos-Python/tree/main/djangocrud/p001crud) |
+| API FastAPI | API REST con documentación interactiva | FastAPI, PostgreSQL | [Ver repositorio](https://github.com/MaSalcedo10/First-API) |
+| Gestor de contraseñas | App de escritorio con cifrado básico | Python, Tkinter | [Ver repositorio](https://github.com/MaSalcedo10/Gestor-de-Contrase-as) |
 
 ---
 
@@ -46,8 +44,8 @@ Actualmente estoy documentando mis proyectos, optimizando mi perfil profesional 
 
 ### 📫 ¿Hablamos?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
-- 📧 miguel.salcedo@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguelsalcedo2022/)  
+- 📧 masg1606@hotmail.com  
 - 🌐 Bogotá, Colombia | Abierto a trabajo remoto y reubicación
 
 ---
