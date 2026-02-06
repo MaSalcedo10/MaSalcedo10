@@ -1,14 +1,14 @@
 <!-- Fondo animado (solo visible en GitHub profile README) -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Miguel%20Ángel%20Salcedo%20Gil&fontSize=35&fontColor=ffffff)
 
-<h3 align="center">👨‍💻 Backend Developer en formación | Python • Django • FastAPI</h3>
+<h3 align="center">👨‍💻 Backend Developer en formación | Python • Django • SQL</h3>
 <p align="center">Apasionado por construir APIs limpias, aprender constantemente y abrirme camino hacia oportunidades internacionales 🌍</p>
 
 ---
 
 ### 🧠 Sobre mí
 
-Soy estudiante de Ingeniería de Software (8° semestre) en el Politécnico Grancolombiano. Me especializo en desarrollo backend con Python y frameworks como Django y FastAPI. También tengo experiencia como diseñador gráfico freelance, lo que me ha dado una visión creativa y colaborativa del desarrollo.
+Soy estudiante de Ingeniería de Software (8° semestre) en el Politécnico Grancolombiano. Me especializo en desarrollo backend con Python y frameworks como Django. También tengo experiencia como diseñador gráfico freelance, lo que me ha dado una visión creativa y colaborativa del desarrollo.
 
 Actualmente estoy construyendo mi portafolio, optimizando mi perfil profesional y preparándome para oportunidades remotas y migración a Canadá o Suecia.
 
@@ -19,7 +19,6 @@ Actualmente estoy construyendo mi portafolio, optimizando mi perfil profesional 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
